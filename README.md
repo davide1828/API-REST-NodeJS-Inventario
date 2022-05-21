@@ -1,2 +1,7 @@
-# API-REST-NodeJS-Inventario
-se crea una API que es capaza de manejos los equipos y los estados de estos, con el manejo de usuarios y validaciones necesarias.
+# inv2022-2
+
+## 1. git clone https://github.com/julioiud/inv2022-2.git
+## 2. cd inv2022-2
+## 3. npm install
+## 4. create ".env" file & set PORT=5000, MONGO_URI vars
+## 5. Run project: node server
